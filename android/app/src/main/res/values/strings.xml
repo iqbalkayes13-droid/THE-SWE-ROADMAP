@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SWE Roadmap Germany</string>
+    <string name="title_activity_main">SWE Roadmap Germany</string>
+    <string name="package_name">com.sweresearch.missiongermany</string>
+    <string name="custom_url_scheme">com.sweresearch.missiongermany</string>
+</resources>

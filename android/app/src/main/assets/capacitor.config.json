@@ -1,0 +1,8 @@
+{
+	"appId": "com.sweresearch.missiongermany",
+	"appName": "SWE Roadmap Germany",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
